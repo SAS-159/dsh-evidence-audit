@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="Evidence audit">
+  <rect width="64" height="64" rx="14" fill="#4338ca"/>
+  <circle cx="29" cy="28" r="14" fill="none" stroke="#ffffff" stroke-width="3.4" stroke-opacity="0.92"/>
+  <path d="M39.5 38.5L50 49" stroke="#ffffff" stroke-width="4.2" stroke-linecap="round" stroke-opacity="0.92"/>
+  <path d="M22.5 28.2l4.4 4.4 8.6-9" fill="none" stroke="#34d399" stroke-width="3.6" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

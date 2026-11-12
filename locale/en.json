@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Evidence audit",
+    "description": "Check the agent's claims against what its tools actually returned, and list the sentences that no tool output supports."
+  }
+}
